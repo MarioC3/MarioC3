@@ -2,7 +2,7 @@
 ### My name is Beto Carlos. 👨🏽‍💻
 I’m a Creative Developer who loves to experiment and build ideas.
 I am fueled by Pepsi, Tamales and chilorio, my spirit animal is Charizard and I’m a Ravenclaw through and through.
-I have practical experience in web development technologies such as HTML/CSS, Javascript, Typescript, Vue, Angular, etc. 
+I have practical experience in web development technologies such as HTML/CSS, Javascript, Typescript, Vue, Angular, NodeJS, etc. 
 
 <!--
 **MarioC3/MarioC3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
