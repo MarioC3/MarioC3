@@ -1,20 +1,9 @@
-### Hi there 👋
-### My name is Beto Carlos. 👨🏽‍💻
-I’m a Creative Developer who loves to experiment and build ideas.
-I am fueled by Pepsi, Tamales and chilorio, my spirit animal is Charizard and I’m a Ravenclaw through and through.
-I have practical experience in web development technologies such as HTML/CSS, Javascript, Typescript, Vue, Angular, NodeJS, etc. 
+### Hey there! 👋
+### I'm Beto Carlos! 👨🏽‍💻
+As a Mexican-born, U.S.-based product-driven innovator, I thrive on crafting ideas and turning them into reality.
 
-<!--
-**MarioC3/MarioC3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With hands-on experience in web development technologies like HTML, CSS, JavaScript, TypeScript, Vue, Nuxt, NodeJS, and more, I'm your go-to guy for digital solutions!
 
-Here are some ideas to get you started:
+Fueled by Pepsi, tamales, and chilorio, my spirit animal is the fierce Charizard, and my inner wizard is a true-blue Ravenclaw.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment, I spearhead Product initiatives at [ShopHero](https://about.shophero.com/)
