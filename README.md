@@ -6,4 +6,4 @@ With hands-on experience in web development technologies like HTML, CSS, JavaScr
 
 Fueled by Pepsi, tamales, and chilorio, my spirit animal is the fierce Charizard, and my inner wizard is a true-blue Ravenclaw.
 
-At the moment, I spearhead Product initiatives at [ShopHero](https://about.shophero.com/)
+At the moment, I spearhead Product Engineering at [ShopHero](https://about.shophero.com/)
