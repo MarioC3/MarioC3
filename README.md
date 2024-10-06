@@ -1,9 +1,8 @@
 ### Hey there! 👋
 ### I'm Beto Carlos! 👨🏽‍💻
-As a Mexican-born, U.S.-based product-driven innovator, I thrive on crafting ideas and turning them into reality.
 
-With hands-on experience in web development technologies like HTML, CSS, JavaScript, TypeScript, Vue, Nuxt, NodeJS, and more, I'm your go-to guy for digital solutions!
-
-Fueled by Pepsi, tamales, and chilorio, my spirit animal is the fierce Charizard, and my inner wizard is a true-blue Ravenclaw.
-
-At the moment, I spearhead Product Engineering at [ShopHero](https://about.shophero.com/)
+I'm a software engineer with 8 years of experience building robust web applications. My expertise is in
+JavaScript, TypeScript, React, and Vue, backed by Node.js, SQL, and cloud computing skills. I focus on
+creating systems that are efficient, scalable, and user-friendly. Having worked with diverse teams, I've
+developed a knack for adapting quickly and communicating effectively. My goal is to create digital solutions that
+enhance user experience and drive business value.
